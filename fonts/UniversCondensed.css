@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UniversCondensed';
+    src: url('fonts/UniversCondensed.eot');
+    src: url('fonts/UniversCondensed.eot') format('embedded-opentype'),
+         url('fonts/UniversCondensed.woff2') format('woff2'),
+         url('fonts/UniversCondensed.woff') format('woff'),
+         url('fonts/UniversCondensed.ttf') format('truetype'),
+         url('fonts/UniversCondensed.svg#UniversCondensed') format('svg');
+}

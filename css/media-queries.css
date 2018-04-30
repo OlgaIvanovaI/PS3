@@ -1,0 +1,32 @@
+
+/* monitors and laptops */
+
+
+
+@media screen and (min-width: 480px) and (max-width: 768px){
+    section .item .description{
+        position: relative;
+        font-size: 10px;
+        width: 100%;
+    }
+
+}
+
+
+@media only screen and (max-width: 480px){
+	section .item .description{
+        position: relative;
+        font-size: 10px;
+        width: 100%;
+    }
+
+}
+/* Медиа-запросы для различных размеров адаптивного макета */
+@media only screen and (max-width: 320px) {
+    section .item .description{
+        position: relative;
+        font-size: 10px;
+        width: 100%;
+    }
+
+}
